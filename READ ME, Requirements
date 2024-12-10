@@ -1,0 +1,7 @@
+Requirements
+#This is an unfair Blackjack game 
+-Before you can play this you need to have 
+  >At least Python 3 Installed to your computer 
+  >You need the python addon pyttsx3 
+    > To install pyttsx3, open cmd and run the following line of commands  
+      pip install pyttsx3
